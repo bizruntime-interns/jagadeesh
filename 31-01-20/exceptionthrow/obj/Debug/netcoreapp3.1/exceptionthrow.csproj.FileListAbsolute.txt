@@ -1,0 +1,11 @@
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.exe
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.deps.json
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.dll
+C:\Users\Jagadeesh\source\repos\exceptionthrow\bin\Debug\netcoreapp3.1\exceptionthrow.pdb
+C:\Users\Jagadeesh\source\repos\exceptionthrow\obj\Debug\netcoreapp3.1\exceptionthrow.csprojAssemblyReference.cache
+C:\Users\Jagadeesh\source\repos\exceptionthrow\obj\Debug\netcoreapp3.1\exceptionthrow.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\exceptionthrow\obj\Debug\netcoreapp3.1\exceptionthrow.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\exceptionthrow\obj\Debug\netcoreapp3.1\exceptionthrow.dll
+C:\Users\Jagadeesh\source\repos\exceptionthrow\obj\Debug\netcoreapp3.1\exceptionthrow.pdb

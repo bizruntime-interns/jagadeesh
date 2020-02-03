@@ -1,0 +1,10 @@
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.exe
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.deps.json
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.dll
+C:\Users\Jagadeesh\source\repos\interrfacee\bin\Debug\netcoreapp3.1\interrfacee.pdb
+C:\Users\Jagadeesh\source\repos\interrfacee\obj\Debug\netcoreapp3.1\interrfacee.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\interrfacee\obj\Debug\netcoreapp3.1\interrfacee.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\interrfacee\obj\Debug\netcoreapp3.1\interrfacee.dll
+C:\Users\Jagadeesh\source\repos\interrfacee\obj\Debug\netcoreapp3.1\interrfacee.pdb

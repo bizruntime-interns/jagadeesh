@@ -1,0 +1,11 @@
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.exe
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.deps.json
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.pdb
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Jagadeesh\source\repos\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb

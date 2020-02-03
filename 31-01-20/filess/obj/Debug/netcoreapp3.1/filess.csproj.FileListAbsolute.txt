@@ -1,0 +1,10 @@
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.exe
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.deps.json
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.dll
+C:\Users\Jagadeesh\source\repos\filess\bin\Debug\netcoreapp3.1\filess.pdb
+C:\Users\Jagadeesh\source\repos\filess\obj\Debug\netcoreapp3.1\filess.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\filess\obj\Debug\netcoreapp3.1\filess.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\filess\obj\Debug\netcoreapp3.1\filess.dll
+C:\Users\Jagadeesh\source\repos\filess\obj\Debug\netcoreapp3.1\filess.pdb
