@@ -1,0 +1,11 @@
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.exe
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.deps.json
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.dll
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\bin\Debug\netcoreapp3.1\ABSTRACTION.pdb
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\obj\Debug\netcoreapp3.1\ABSTRACTION.csprojAssemblyReference.cache
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\obj\Debug\netcoreapp3.1\ABSTRACTION.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\obj\Debug\netcoreapp3.1\ABSTRACTION.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\obj\Debug\netcoreapp3.1\ABSTRACTION.dll
+C:\Users\Jagadeesh\source\repos\ABSTRACTION\obj\Debug\netcoreapp3.1\ABSTRACTION.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.exe
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.deps.json
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.runtimeconfig.json
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.runtimeconfig.dev.json
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.dll
+C:\Users\Jagadeesh\source\repos\eenum\bin\Debug\netcoreapp3.1\eenum.pdb
+C:\Users\Jagadeesh\source\repos\eenum\obj\Debug\netcoreapp3.1\eenum.AssemblyInfoInputs.cache
+C:\Users\Jagadeesh\source\repos\eenum\obj\Debug\netcoreapp3.1\eenum.AssemblyInfo.cs
+C:\Users\Jagadeesh\source\repos\eenum\obj\Debug\netcoreapp3.1\eenum.dll
+C:\Users\Jagadeesh\source\repos\eenum\obj\Debug\netcoreapp3.1\eenum.pdb
