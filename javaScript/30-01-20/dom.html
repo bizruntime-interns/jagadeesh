@@ -1,0 +1,24 @@
+<html>
+<body>
+<h2>finding HTML ELEMENTS using document.forms</h2>
+<form id="Form1" action="/action_page.php">
+first name:<input type="text" name="fname" value="cristiano"><br>
+last name:<input type="text" name="lname" value="ron"><br><br>
+<input type="submit" value="submit">
+</form>
+<p>try it to display</p>
+<button onclick="myfunction()">TRY IT</button>
+<p id="demo"></p>
+<script>
+function myfunction() {
+var x=document.forms["Form1"];
+var text ="";
+var i;
+for(i=0;i < x.length;i++){
+text +=x.elements[i].value + "<br>";
+}
+document.getElementById("demo").innerHTML=text;
+}
+</script>
+</body>
+</html>

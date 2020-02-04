@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<script type="text/javascript">
+		function time() 
+		{
+			var d=new Date();
+			var times=d.getHours()+":"+d.getMinutes()+":"+d.getSeconds();
+			document.displaytime.timetxt.value=times;
+			setInterval("time()",1000)
+		}
+		</script>
+	</head>
+	<body onload="time()">
+	<center><h2>Displaying time</h2>
+	<form name="displaytime">
+	<input type=text name=timetxt size="20" >
+	</form>
+	</center>
+	</body>
+</html>
+	
