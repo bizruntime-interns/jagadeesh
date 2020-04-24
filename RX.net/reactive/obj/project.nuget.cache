@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkJjbtoIefbrErP+5lzZ+DKsgYGSiV8Z9iX6nTuxgiPiGy31bWIZqWGF8kWVWscfdc8l6rAXJus633DSaXSUPw==",
+  "success": true,
+  "projectFilePath": "D:\\RX.net\\reactive\\reactive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\system.reactive.linq\\4.4.1\\system.reactive.linq.4.4.1.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

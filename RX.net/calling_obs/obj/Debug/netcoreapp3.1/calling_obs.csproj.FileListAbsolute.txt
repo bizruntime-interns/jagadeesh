@@ -1,0 +1,16 @@
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.csprojAssemblyReference.cache
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.csproj.CoreCompileInputs.cache
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.AssemblyInfoInputs.cache
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.AssemblyInfo.cs
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.exe
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.deps.json
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.runtimeconfig.json
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.runtimeconfig.dev.json
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.dll
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\calling_obs.pdb
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\RX.net\calling_obs\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.csproj.CopyComplete
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.dll
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.pdb
+D:\RX.net\calling_obs\obj\Debug\netcoreapp3.1\calling_obs.genruntimeconfig.cache

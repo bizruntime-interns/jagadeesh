@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "subject_T", "subject_T.csproj", "{59A19658-4846-4941-A98F-3F87692B4853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calling_Obs.Create", "..\calling_Obs.Create\calling_Obs.Create.csproj", "{330D7222-F312-4B5C-9E2D-36065258E83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A19658-4846-4941-A98F-3F87692B4853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A19658-4846-4941-A98F-3F87692B4853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A19658-4846-4941-A98F-3F87692B4853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A19658-4846-4941-A98F-3F87692B4853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330D7222-F312-4B5C-9E2D-36065258E83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330D7222-F312-4B5C-9E2D-36065258E83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330D7222-F312-4B5C-9E2D-36065258E83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330D7222-F312-4B5C-9E2D-36065258E83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9550854E-036E-4D67-8DDB-C093E686AF12}
+	EndGlobalSection
+EndGlobal

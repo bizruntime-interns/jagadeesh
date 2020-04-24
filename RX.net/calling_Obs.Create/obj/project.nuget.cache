@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5ddIo3Jllo0VY3WX5FJJgb61KdQU9Sp8fHA3etoVzhIcp8t9GE5dbu8pDUrlEgmmWf4XQAD3oqsDyfBQWD3AQ==",
+  "success": true,
+  "projectFilePath": "D:\\RX.net\\calling_Obs.Create\\calling_Obs.Create.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+D:\RX.net\cold_obs\cold_obs\obj\Debug\netcoreapp3.1\cold_obs.csprojAssemblyReference.cache
+D:\RX.net\cold_obs\cold_obs\obj\Debug\netcoreapp3.1\cold_obs.csproj.CoreCompileInputs.cache
+D:\RX.net\cold_obs\cold_obs\obj\Debug\netcoreapp3.1\cold_obs.AssemblyInfoInputs.cache
+D:\RX.net\cold_obs\cold_obs\obj\Debug\netcoreapp3.1\cold_obs.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.exe
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.deps.json
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.runtimeconfig.json
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.runtimeconfig.dev.json
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.dll
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\reactive.pdb
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\RX.net\reactive\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.csprojAssemblyReference.cache
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.csproj.CoreCompileInputs.cache
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.AssemblyInfoInputs.cache
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.AssemblyInfo.cs
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.csproj.CopyComplete
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.dll
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.pdb
+D:\RX.net\reactive\obj\Debug\netcoreapp3.1\reactive.genruntimeconfig.cache

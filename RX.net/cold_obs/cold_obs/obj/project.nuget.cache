@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jf7EOadTdvnM4T1Yo6+vcc8VYYqCUI3vsXXhEYICRB13rrnTe+xWWnhgSa0kdvM20GrUsFEDT1FRo719rjlY8g==",
+  "success": true,
+  "projectFilePath": "D:\\RX.net\\cold_obs\\cold_obs\\cold_obs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
