@@ -1,0 +1,11 @@
+<h2>Tyres at VEILSIDE</h2>
+<ul class="parts" >
+    <li *ngFor="let part of parts" [class.selected]="part === selectedpart" (click)="onSelect(part)">
+        <span class="badge">{{part.rims}}</span>
+        {{part.tyres}}
+
+
+    </li>
+</ul>
+<app-partdetails [parts]="selectedpart"></app-partdetails>
+<app-images [parts]="selectedpart"></app-images>
