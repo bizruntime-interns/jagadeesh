@@ -1,0 +1,13 @@
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.exe
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.deps.json
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.runtimeconfig.json
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.runtimeconfig.dev.json
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.dll
+D:\New folder\encription\bin\Debug\netcoreapp3.1\encription.pdb
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.csprojAssemblyReference.cache
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.csproj.CoreCompileInputs.cache
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.AssemblyInfoInputs.cache
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.AssemblyInfo.cs
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.dll
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.pdb
+D:\New folder\encription\obj\Debug\netcoreapp3.1\encription.genruntimeconfig.cache

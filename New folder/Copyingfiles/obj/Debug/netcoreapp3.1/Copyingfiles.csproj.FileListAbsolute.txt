@@ -1,0 +1,13 @@
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.exe
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.deps.json
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.runtimeconfig.json
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.runtimeconfig.dev.json
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.dll
+D:\New folder\Copyingfiles\bin\Debug\netcoreapp3.1\Copyingfiles.pdb
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.csprojAssemblyReference.cache
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.csproj.CoreCompileInputs.cache
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.AssemblyInfoInputs.cache
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.AssemblyInfo.cs
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.dll
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.pdb
+D:\New folder\Copyingfiles\obj\Debug\netcoreapp3.1\Copyingfiles.genruntimeconfig.cache
