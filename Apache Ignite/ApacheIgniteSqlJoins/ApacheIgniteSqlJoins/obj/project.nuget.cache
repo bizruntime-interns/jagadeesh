@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qmjwzzlfkFyfsPgqf1nH8iJR2boo//9RyjFDt8PL7EhAZa3TVq2xu2/Ei0Vapa+8H+TuCGO/RBQDQxmpePJZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jagad\\source\\repos\\ApacheIgniteSqlJoins\\ApacheIgniteSqlJoins\\ApacheIgniteSqlJoins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\apache.ignite\\2.8.0\\apache.ignite.2.8.0.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

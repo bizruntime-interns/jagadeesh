@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheIgniteSqlJoins", "ApacheIgniteSqlJoins\ApacheIgniteSqlJoins.csproj", "{45EEF063-0DBB-4262-B203-01B036D52BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EEF063-0DBB-4262-B203-01B036D52BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EEF063-0DBB-4262-B203-01B036D52BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EEF063-0DBB-4262-B203-01B036D52BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EEF063-0DBB-4262-B203-01B036D52BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFE11ED-4AAB-41B3-A47D-EE09F288FB6E}
+	EndGlobalSection
+EndGlobal

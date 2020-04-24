@@ -1,0 +1,4 @@
+C:\Users\jagad\source\repos\ApacheIgniteLinq\ApacheIgniteLinq\bin\Debug\netcoreapp3.1\ApacheIgniteLinq.exe
+C:\Users\jagad\source\repos\ApacheIgniteLinq\ApacheIgniteLinq\obj\Debug\netcoreapp3.1\ApacheIgniteLinq.csprojAssemblyReference.cache
+C:\Users\jagad\source\repos\ApacheIgniteLinq\ApacheIgniteLinq\obj\Debug\netcoreapp3.1\ApacheIgniteLinq.AssemblyInfoInputs.cache
+C:\Users\jagad\source\repos\ApacheIgniteLinq\ApacheIgniteLinq\obj\Debug\netcoreapp3.1\ApacheIgniteLinq.AssemblyInfo.cs
