@@ -1,0 +1,13 @@
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.exe
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.deps.json
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.runtimeconfig.json
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.runtimeconfig.dev.json
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.dll
+D:\socket\Time_client\bin\Debug\netcoreapp3.1\Time_client.pdb
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.csprojAssemblyReference.cache
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.csproj.CoreCompileInputs.cache
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.AssemblyInfoInputs.cache
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.AssemblyInfo.cs
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.dll
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.pdb
+D:\socket\Time_client\obj\Debug\netcoreapp3.1\Time_client.genruntimeconfig.cache
