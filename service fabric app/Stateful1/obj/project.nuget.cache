@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XF+101EmlQnRUn1WpxBCy+/mT87S3vK5LQTr5nuN4V3xVCTduxaRVthlGPuVtycaeDMZ5pztN0HMVV6viVa6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jagad\\OneDrive\\Desktop\\JumpStartApplication\\Stateful1\\Stateful1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric\\7.0.470\\microsoft.servicefabric.7.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.data\\4.0.470\\microsoft.servicefabric.data.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.0.470\\microsoft.servicefabric.data.extensions.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.0.470\\microsoft.servicefabric.data.interfaces.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.0.470\\microsoft.servicefabric.diagnostics.internal.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.0.470\\microsoft.servicefabric.fabrictransport.internal.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.services\\4.0.470\\microsoft.servicefabric.services.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.0.470\\microsoft.servicefabric.services.remoting.4.0.470.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\jagad\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

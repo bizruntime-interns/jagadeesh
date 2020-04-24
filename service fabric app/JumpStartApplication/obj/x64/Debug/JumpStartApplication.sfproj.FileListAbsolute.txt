@@ -1,0 +1,2 @@
+C:\Users\jagadeesh\source\repos\JumpStartApplication\JumpStartApplication\obj\x64\Debug\JumpStartApplication.sfproj.CoreCompileInputs.cache
+C:\Users\jagad\OneDrive\Desktop\JumpStartApplication\JumpStartApplication\obj\x64\Debug\JumpStartApplication.sfproj.CoreCompileInputs.cache
