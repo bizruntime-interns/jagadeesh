@@ -1,0 +1,9 @@
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Users\jagad\source\repos\ServiceFabricActor\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

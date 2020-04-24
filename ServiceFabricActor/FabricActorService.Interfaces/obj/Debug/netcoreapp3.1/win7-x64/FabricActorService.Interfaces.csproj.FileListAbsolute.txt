@@ -1,0 +1,12 @@
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.csprojAssemblyReference.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.AssemblyInfoInputs.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.AssemblyInfo.cs
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.deps.json
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.dll
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.pdb
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\Contracts.dll
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\Contracts.pdb
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.csproj.CopyComplete
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.dll
+C:\Users\jagad\source\repos\ServiceFabricActor\FabricActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\FabricActorService.Interfaces.pdb
