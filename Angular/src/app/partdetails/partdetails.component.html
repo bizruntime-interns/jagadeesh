@@ -1,0 +1,6 @@
+<div *ngIf="parts">
+    <h2>{{parts.tyres | uppercase}} Details</h2>
+    <div><span>Rims:</span>{{parts.rims}}</div>
+    <div><label>Tyres:
+            <input [(ngModel)]="parts.tyres" placeholder="Tyres" /></label></div>
+</div>
