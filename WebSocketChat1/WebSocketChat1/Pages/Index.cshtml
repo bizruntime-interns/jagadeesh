@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h1>WebSocket Example</h1>
+
+<p id="stateLabel">Ready to connect</p>
+<div>
+    <label for="connectionUrl">Web Socket ConnectionUrl:</label>
+    <input id="connectionUrl"/>
+    <button id="connectionButton" type="submit">Connect</button>
+</div>
+<p></p>
+<div>
+    <label for="sendMessage">Mesage to send:</label>
+    <input id="sendMessage" disabled />
+    <button id="sendButton" type="submit" disabled>send</button>
+    <button id="closeButton" disabled>Close socket</button>
+</div>
+<h2>Communication Log</h2>
+<table style="width:800px">
+    <thead>
+        <tr>
+            <td style="width: 100px">from</td>
+            <td style="width: 100px">To</td>
+            <td>Data</td>
+        </tr>
+    </thead>
+<tbody id="commslog"></tbody>
+</table>
