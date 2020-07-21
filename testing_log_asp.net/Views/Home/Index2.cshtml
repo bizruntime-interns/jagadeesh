@@ -1,0 +1,27 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model testing_log_asp.net.Models.login
+@{
+    ViewData["Title"] = "otp";
+
+}
+
+<div class="padding-all">
+    <div class="header">
+        <h1> Login Form</h1>
+    </div>
+
+    <div class="design-w3l">
+        <div class="mail-form-agile">
+            <form asp-action="Index2" asp-controller="Home" method="post">
+                <input type="number" asp-for="otp" placeholder="otp" required="" />
+
+                <input type="submit" value="login">
+            </form>
+            <p> @ViewBag.mess</p>
+        </div>
+
+    </div>
+
+
+</div>
+
